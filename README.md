@@ -55,6 +55,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/v-i-v-e-k-01/boilerplate-mongomongoose"> 11. MongoDB
   </a>
   <br>
-  
+---
 
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-i-v-e-k-01)](https://github.com/v-i-v-e-k-01/github-readme-stats)
     
