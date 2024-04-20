@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
-- 💬 Completed Learning:
+- 💬 I've completed learning:
   <br>
    <a href="https://github.com/v-i-v-e-k-01/AWS-AI-ML-Course/tree/main/Complete%20Python"> 8. Python 
   </a>
