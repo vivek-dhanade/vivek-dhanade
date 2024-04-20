@@ -36,4 +36,22 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/v-i-v-e-k-01/boilerplate-project-urlshortener"> 6. URL Shortner - MERN 
   </a>
+  <br>
+  <a href="https://github.com/v-i-v-e-k-01/DeepRacer"> 7. AWS DeepRacer - Reinforcement Learning
+  </a>
+  <br>
+  <br>
+- 💬 Completed Learning:
+  <br>
+   <a href="https://github.com/v-i-v-e-k-01/AWS-AI-ML-Course/tree/main/Complete%20Python"> 8. Python 
+  </a>
+  <br>
+   <a href="https://github.com/v-i-v-e-k-01/JavaScript-Crash-Course"> 9. JavaScript
+  </a>
+  <br> 
+   <a href="https://github.com/v-i-v-e-k-01/boilerplate-express"> 10. Express.js
+  </a>
+  <br>
+  
+
     
