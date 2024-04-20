@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning
- 1. [Data Structures And Algorithms](github.com/v-i-v-e-k-01/DSA)
+  <a href="https://github.com/v-i-v-e-k-01/DSA">
+    1. Data Structures And Algorithms
+  </a>
     
