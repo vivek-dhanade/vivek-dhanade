@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning
+ 1. [Data Structures And Algorithms](github.com/v-i-v-e-k-01/DSA)
+    
