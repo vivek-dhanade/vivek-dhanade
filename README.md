@@ -40,6 +40,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/v-i-v-e-k-01/DeepRacer"> 7. AWS DeepRacer - Reinforcement Learning
   </a>
   <br>
+  <a href="https://github.com/v-i-v-e-k-01/relational_database_projects_freecodecamp"> 8. Various Relational Databases 
+  </a>
+  
+  <br>
   <br>
 - 💬 I've completed learning:
   <br>
@@ -53,6 +57,9 @@ Here are some ideas to get you started:
   </a>
   <br>
   <a href="https://github.com/v-i-v-e-k-01/boilerplate-mongomongoose"> 11. MongoDB
+  </a>
+  <br>
+  <a href="https://github.com/v-i-v-e-k-01/relational_database_projects_freecodecamp"> 12. PostgreSQL and Bash Scripting
   </a>
   <br>
 ---
