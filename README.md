@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/v-i-v-e-k-01/relational_database_projects_freecodecamp"> 8. Various Relational Databases 
   </a>
-  
   <br>
   <br>
 - 💬 I've completed learning:
