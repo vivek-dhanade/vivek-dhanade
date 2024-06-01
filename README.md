@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/v-i-v-e-k-01/relational_database_projects_freecodecamp"> 12. PostgreSQL and Bash Scripting
   </a>
+  <br>  <a href="https://github.com/v-i-v-e-k-01/foundational_csharp_freecodecamp"> 13. C#
+  </a>
   <br>
 ---
 
