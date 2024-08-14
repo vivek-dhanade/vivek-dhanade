@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning:
   <br>
   <a href="https://github.com/v-i-v-e-k-01/DSA"> 1. Data Structures And Algorithms
@@ -23,6 +24,8 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
+
+  
 - ⚡ I've worked on projects:
   <br>
   <a href="https://github.com/vinayakGarudi2002/hackathon-renewable360"> 3. Renewable360 - A MERN Stack Web APP
@@ -44,12 +47,14 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
-- 💬 I've completed learning:
+
+  
+- 💬 Learnings:
   <br>
    <a href="https://github.com/v-i-v-e-k-01/AWS-AI-ML-Course/tree/main/Complete%20Python"> 8. Python 
   </a>
   <br>
-   <a href="https://github.com/v-i-v-e-k-01/JavaScript-Crash-Course"> 9. JavaScript
+   <a href="https://github.com/v-i-v-e-k-01/JavaScript-Crash-Course"> 9. JavaScript Crash Course
   </a>
   <br> 
    <a href="https://github.com/v-i-v-e-k-01/boilerplate-express"> 10. Express.js
@@ -60,9 +65,20 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/v-i-v-e-k-01/relational_database_projects_freecodecamp"> 12. PostgreSQL and Bash Scripting
   </a>
-  <br>  <a href="https://github.com/v-i-v-e-k-01/csharp_begineers_udemy"> 13. C#
+  <br>  <a href="https://github.com/v-i-v-e-k-01/csharp_begineers_udemy"> 13. C# Begineers
   </a>
   <br>
+    <br>  <a href="https://github.com/v-i-v-e-k-01/csharp_intermediate_udemy"> 14. C# Intermediate
+  </a>
+  <br>
+    <br>  <a href="https://github.com/v-i-v-e-k-01/csharp_advanced_udemy"> 15. C# Advanced
+  </a>
+  <br>
+    <br>  <a href="https://github.com/v-i-v-e-k-01/SOLID_principles_udemy"> 16. SOLID Principles 
+  </a>
+  <br>
+
+
 ---
 
 ### :fire: My Stats :
