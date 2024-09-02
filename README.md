@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/v-i-v-e-k-01/SOLID_principles_udemy"> 16. SOLID Principles 
   </a>
   <br>
-  <a href="https://github.com/v-i-v-e-k-01/unit_testing_udemy"> 16. Unit Testing C#
+  <a href="https://github.com/v-i-v-e-k-01/unit_testing_udemy"> 17. Unit Testing C#
   </a>
   <br>
 
