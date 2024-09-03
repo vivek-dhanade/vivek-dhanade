@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/v-i-v-e-k-01/unit_testing_udemy"> 17. Unit Testing C#
   </a>
   <br>
-   <a href=" https://github.com/v-i-v-e-k-01/dependency_injection_autofac_udemy"> 18. Dependency Injection
+  <a href="https://github.com/v-i-v-e-k-01/dependency_injection_autofac_udemy"> 18. Dependency Injection
   </a>
   <br>
 
