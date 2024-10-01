@@ -82,7 +82,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/v-i-v-e-k-01/dependency_injection_autofac_udemy"> 18. Dependency Injection
   </a>
   <br>
-
+  <a href="https://github.com/v-i-v-e-k-01/html_css_udemy"> 19. HTML and CSS 
+  </a>
+  <br>
 ---
 
 ### :fire: My Stats :
