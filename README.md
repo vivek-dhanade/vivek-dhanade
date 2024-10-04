@@ -1,7 +1,7 @@
 <div align="center"> <b> Hi there 👋 </b> </div>
 
 <!--
-**v-i-v-e-k-01/v-i-v-e-k-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vivek-dhanade/vivek-dhanade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
