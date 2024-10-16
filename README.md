@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/vivek-dhanade/relational_database_projects_freecodecamp"> 8. Various Relational Databases 
   </a>
   <br>
-  <a href="https://github.com/vivek-dhanade/blazor_dotnet9_udemy/YumBlazor"> =9. Food Ordering Service - Blazor, ASP.NET Core
+  <a href="https://github.com/vivek-dhanade/blazor_dotnet9_udemy/blob/main/YumBlazor"> 9. Food Ordering Service - Blazor, ASP.NET Core
   </a>
   <br>
   <br>
