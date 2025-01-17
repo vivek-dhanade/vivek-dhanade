@@ -91,6 +91,9 @@ Here are some ideas to get you started:
     <a href="https://github.com/vivek-dhanade/blazor_dotnet9_udemy"> 20. Blazor and ASP.NET Core
   </a>
   <br>
+  <a href="https://github.com/vivek-dhanade/angular-udemy/tree/main"> 20. Angular 19
+  </a>
+  <br>
 ---
 
 ### :fire: My Stats :
