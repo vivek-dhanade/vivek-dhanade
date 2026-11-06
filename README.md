@@ -27,26 +27,26 @@ Here are some ideas to get you started:
   -->
 - ⚡ I've worked on projects:
   <br>
-  <a href="https://github.com/vivek-dhanade/blazor_dotnet9_udemy/blob/main/YumBlazor"> 9. Food Ordering Service Web App - Blazor, .NET Core
+  <a href="https://github.com/vivek-dhanade/blazor_dotnet9_udemy/blob/main/YumBlazor"> 1. Food Ordering Service Web App - Blazor, .NET Core
   </a>
   <br>
   <br>
-  <a href="https://github.com/vinayakGarudi2002/hackathon-renewable360"> 3. Renewable360 - A MERN Stack Web APP
+  <a href="https://github.com/vinayakGarudi2002/hackathon-renewable360"> 2. Renewable360 - A MERN Stack Web APP
   </a>
   <br>
-  <a href="https://github.com/vivek-dhanade/AWS-AI-ML-Course/tree/main/Project"> 4. Pre-trained Image Classifier - CNN
+  <a href="https://github.com/vivek-dhanade/AWS-AI-ML-Course/tree/main/Project"> 3. Pre-trained Image Classifier - CNN
   </a>
   <br>
-  <a href="https://github.com/vivek-dhanade/boilerplate-project-exercisetracker"> 5. Exercise Tracker - MERN
+  <a href="https://github.com/vivek-dhanade/boilerplate-project-exercisetracker"> 4. Exercise Tracker - MERN
   </a>
   <br>
-  <a href="https://github.com/vivek-dhanade/boilerplate-project-urlshortener"> 6. URL Shortner - MERN 
+  <a href="https://github.com/vivek-dhanade/boilerplate-project-urlshortener"> 5. URL Shortner - MERN 
   </a>
   <br>
-  <a href="https://github.com/vivek-dhanade/DeepRacer"> 7. AWS DeepRacer - Reinforcement Learning
+  <a href="https://github.com/vivek-dhanade/DeepRacer"> 6. AWS DeepRacer - Reinforcement Learning
   </a>
   <br>
-  <a href="https://github.com/vivek-dhanade/relational_database_projects_freecodecamp"> 8. Various Relational Databases 
+  <a href="https://github.com/vivek-dhanade/relational_database_projects_freecodecamp"> 7. Various Relational Databases 
   </a>
 
   <br>
@@ -98,8 +98,9 @@ Here are some ideas to get you started:
   <br>
 -->
 ---
-
+<!--
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-dhanade)](https://github.com/anuraghazra/github-readme-stats)
+-->
     
